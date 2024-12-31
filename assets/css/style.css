@@ -85,6 +85,16 @@ h2 {
     font-family: var(--secondary-font);
 }
 
+#services .card-footer {
+    font-weight: bold;
+    color: var(--highlight-color);
+    background-color: transparent;
+}
+
+#services .card {
+    margin-bottom: 1.5rem;
+}
+
 /* Game library cards */
 
 #new-games .card,
